@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-31T22:34:41.864+03:00
+  initializedAtString: 2020-05-31T22:32:45.314+03:00
+  log:
+  - commitID: 68f93b2af1751cba70a4a8620cc1f07ca6b335ac
+    mergeA: 
+    mergeB: 
+    authorName: BB
+    authorEmail: SD
+    commitEmail: SD
+    commitName: BB
+    summary: Add .gitignore and .gitattributes.
+    description: 
+    timeString: 2020-01-14T18:36:09.000+02:00
+    commitTimeString: 2020-01-14T18:36:09.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\bar\game_create\PaperJet\PaperJet_BarFrimet-313175176_YonatanEldan-3112384488\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\bar\game_create\PaperJet\PaperJet_BarFrimet-313175176_YonatanEldan-3112384488\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
